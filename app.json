@@ -1,33 +1,31 @@
 {
-  "expo": {
-    "name": "Factor Calculator",
-    "slug": "factorCalculator",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/calculator.png",
-    "userInterfaceStyle": "light",
-    "updates": {
-      "fallbackToCacheTimeout": 0
-    },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/calculator.png"
-      },
-      "package": "com.edward_stone01.factorCalculator"
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "9af3baa4-a6d1-42cb-ad8e-d2edbe1c4f85"
-      }
-    }
-  }
+	"expo": {
+		"name": "Factor Calculator",
+		"slug": "factorCalculator",
+		"version": "1.0.0",
+		"orientation": "portrait",
+		"icon": "./assets/calculator.png",
+		"userInterfaceStyle": "light",
+		"updates": {
+			"fallbackToCacheTimeout": 0
+		},
+		"assetBundlePatterns": ["**/*"],
+		"ios": {
+			"supportsTablet": true
+		},
+		"android": {
+			"adaptiveIcon": {
+				"foregroundImage": "./assets/calculator.png"
+			},
+			"package": "com.hamzaMohammad01.factorCalculator"
+		},
+		"web": {
+			"favicon": "./assets/favicon.png"
+		},
+		"extra": {
+			"eas": {
+				"projectId": "9af3baa4-a6d1-42cb-ad8e-d2edbe1c4f85"
+			}
+		}
+	}
 }
